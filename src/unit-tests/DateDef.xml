@@ -1,0 +1,22 @@
+﻿<Dates>
+  <Date>
+    <Type>Fixed</Type>
+    <Month>January</Month>
+    <Day>22</Day>
+    <Name>Jan 22nd</Name>
+  </Date>
+  <Date>
+    <Type>Variable</Type>
+    <WeekOfMonth>Second</WeekOfMonth>
+    <DayOfWeek>Monday</DayOfWeek>
+    <Month>January</Month>
+    <Name>2nd Monday In Jan</Name>
+  </Date>
+  <Date>
+    <Type>Variable</Type>
+    <WeekOfMonth>Last</WeekOfMonth>
+    <DayOfWeek>Sunday</DayOfWeek>
+    <Month>January</Month>
+    <Name>2nd Monday In Jan</Name>
+  </Date>
+</Dates>
